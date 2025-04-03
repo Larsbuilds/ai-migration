@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "La Orotava",
+			"country": {
+				"code": "ES",
+				"name": "Spain"
+			},
+			"subdivision": {
+				"code": "CN",
+				"name": "Canary Islands"
+			},
+			"timezone": "Atlantic/Canary",
+			"latitude": 28.3909,
+			"longitude": -16.5216,
+			"postalCode": "38300"
+		},
+		"timestamp": 1737016331946
+	}
+}
